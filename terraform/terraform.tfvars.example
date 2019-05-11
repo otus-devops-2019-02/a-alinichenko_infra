@@ -1,6 +1,8 @@
-project  = "infra-352354234523452"
-region = "europe-west1-testtest"  
-public_key_path = "/test/.ssh/test.pub"
-disk_image = "reddittest"
-private_key_path = "/test/.ssh/test"
+project  = "prname"
+region = "europe"  
+public_key_path = "~/.ssh/appuser.pub"
+disk_image = "img"
+private_key_path = "~/.ssh/appuser"
+
+
 
