@@ -1,0 +1,8 @@
+project  = "prname"
+region = "europe"  
+public_key_path = "~/.ssh/appuser.pub"
+disk_image = "img"
+private_key_path = "~/.ssh/appuser"
+
+
+
